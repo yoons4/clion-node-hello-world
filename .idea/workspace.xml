@@ -9,9 +9,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="851c1fe4-3f83-4988-8547-da91925bb19e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="9e157172-cbc4-4898-af04-772e346fe118" name="Default Changelist" comment="" />
+>>>>>>> default package.json
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +24,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> default package.json
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -32,8 +39,12 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="5a4jr1jl" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1hfH6faO0FW5iFqYxdyKWWVcMsw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="1hfIJz6TWDLDVMhUa9Hj5wB7snP" />
+>>>>>>> default package.json
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,10 +66,65 @@
       <option name="presentableId" value="Default" />
       <updated>1600395062279</updated>
       <workItem from="1600395066402" duration="568000" />
+=======
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e157172-cbc4-4898-af04-772e346fe118" name="Default Changelist" comment="" />
+      <created>1600395652211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600395652211</updated>
+      <workItem from="1600395653565" duration="114000" />
+      <workItem from="1600395843039" duration="464000" />
+      <workItem from="1600396346364" duration="1264000" />
+>>>>>>> default package.json
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="WindowStateProjectService">
+    <state x="408" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600395747262">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="408" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.801@0.23.1440.801" timestamp="1600395747262" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1600396329592">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1600396329592" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1600396329591">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1600396329591" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1600396329591">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1600396329591" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1600396329592">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1600396329592" />
+    <state x="229" y="61" key="SettingsEditor" timestamp="1600396327602">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="229" y="61" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1600396327602" />
+  </component>
+>>>>>>> default package.json
 </project>
