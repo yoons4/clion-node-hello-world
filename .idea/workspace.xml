@@ -90,8 +90,12 @@
       <updated>1600395652211</updated>
       <workItem from="1600395653565" duration="114000" />
       <workItem from="1600395843039" duration="464000" />
+<<<<<<< HEAD
       <workItem from="1600396346364" duration="1264000" />
 >>>>>>> default package.json
+=======
+      <workItem from="1600396346364" duration="1620000" />
+>>>>>>> updated package.json
     </task>
     <servers />
   </component>
